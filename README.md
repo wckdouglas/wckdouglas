@@ -8,5 +8,5 @@
 </a>
 
 <a href="https://github.com/wckdouglas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wckdouglas&langs_count=8&layout=compact&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wckdouglas&langs_count=8&layout=compact&theme=radical&hide_border=true?show_icons=true" />
 </a>  
