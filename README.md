@@ -4,7 +4,7 @@
 
 
 <a href="https://github.com/wckdouglas">
-  <img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=wckdouglas&theme=vue&show_icons=true&count_private=true&hide_border=true" />
+  <img align="center" width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=wckdouglas&theme=vue&show_icons=true&count_private=true&hide_border=true" />
 </a>
 
 <a href="https://github.com/wckdouglas">
