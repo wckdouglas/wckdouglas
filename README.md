@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[**@wckdouglas**](https://wckdouglas.github.io/) -- I am a Computational Biologisy [@VantAI](https://www.vant.ai/).
+[**@wckdouglas**](https://wckdouglas.github.io/) -- I am a Computational Biologist [@VantAI](https://www.vant.ai/).
 
 
 <a href="https://github.com/wckdouglas">
